@@ -27,7 +27,7 @@ scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile5`, function (sprite, l
 let Jugador: Sprite = null
 game.splash("Lual games ")
 game.splash("Presents")
-game.splash("Quest 3 3d deluxe", "super mega expert")
+game.splash("Quest 3 3D deluxe", "supermega expert")
 game.splash("With a larger map", "and better visuals")
 scene.setBackgroundImage(img`
     ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
